@@ -1,6 +1,7 @@
 # flutter_2
 
 A new Flutter application.
+This is just a test project.
 
 ## Getting Started
 
